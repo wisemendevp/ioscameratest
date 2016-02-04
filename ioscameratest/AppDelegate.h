@@ -1,5 +1,4 @@
-//
-//  AppDelegate.h
+
 
 //
 //  Created by Wisemen on 4/02/2016.
